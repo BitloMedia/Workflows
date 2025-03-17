@@ -1,3 +1,5 @@
+# Trackerless Shadow Reprojection
+
 # 1. Introduction
 Shadow recreation for Extended Reality (XR) productions has often relied on **motion capture (MoCap) systems** or **AI-generated skeletal data** to approximate shadow placement in a 3D environment using humanoid models. These methods can be **expensive**, require **extensive setup**, and are limited to **predefined tracked individuals**.
 
