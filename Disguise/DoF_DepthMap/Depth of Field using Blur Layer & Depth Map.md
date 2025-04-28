@@ -1,4 +1,4 @@
-# **Applying Depth of Field using Blur Layer & Depth Map**
+# **Depth of Field using Blur Layer & Depth Map**
 
 This guide provides the direct steps to set up depth-based blur on 2D content using a depth map and the Blur layer in Disguise Designer.
 
